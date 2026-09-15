@@ -808,7 +808,7 @@
     <string name="flags">フラグ</string>
     <string name="skin_tab_particles">パーティクル</string>
     <string name="skin_tab_special">特別</string>
-    <string name="level_skin_locked_dialog">このスキンを使用するには、レベル%1$d以上が必要です。現在のレベル：%2$d</string>
+    <string name="level_skin_locked_dialog">このスキンを使用するには、レベル%1$d以上が必要です。現在はレベル%2$dにいます。</string>
     <string name="skin_tab_achievement">達成</string>
     <string name="achievement_skin_locked_dialog">このスキンを使用するには、%1$d達成値以上が必要です。現在は%2$d達成値があります。</string>
     <string name="dismiss">閉じる</string>
