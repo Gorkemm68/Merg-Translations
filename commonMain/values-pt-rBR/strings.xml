@@ -264,7 +264,7 @@
     <string name="voidstone_gift_send">Enviar Voidstones</string>
     <string name="skin_bought">Skin adquirida</string>
     <string name="booster_base_xp_bought">Aprimorou Multiplicador de XP de Base</string>
-    <string name="transaction_achievement_reward">Achievement Reward</string>
+    <string name="transaction_achievement_reward">Recompensa por Conquista</string>
     <string name="booster_autosplit_bought">Aprimorou Auto-split</string>
     <string name="booster_autoshoot_bought">Aprimorou Auto-eject</string>
     <string name="booster_spawn_size_bought">Aprimorou Incremento de Tamanho</string>
@@ -646,7 +646,7 @@
     <string name="leaderboard_type">Tipo de Placar</string>
     <string name="leaderboard_xp_description">XP: Necessário para subir de nível. Pode ser obtido realizando alguma ação significativa no jogo.</string>
     <string name="leaderboard_type_ap">AP</string>
-    <string name="leaderboard_ap_description">AP, short for Achievement Points. Obtain these special points by completing achievements! Higher tier achievements give more AP than others.</string>
+    <string name="leaderboard_ap_description">Abreviação de Achievement Points (Pontos por Conquista). Obtenha esses pontos especiais desbloqueando conquistas! Conquistas de maior nível darão mais AP que as demais.</string>
     <string name="leaderboard_competitive_description">Partida classificatória 1v1. Somente jogadores que concluírem pelo menos 12 partidas aparecerão na lista.</string>
     <string name="leaderboard_rating">Classificação</string>
     <string name="leaderboard_period_daily">Diário</string>
