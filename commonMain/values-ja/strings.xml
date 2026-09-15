@@ -645,8 +645,8 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">リーダーボード種類</string>
     <string name="leaderboard_xp_description">経験値です。獲得してレベルアップします。経験値はドットやボイドストーンを集めて得られます。</string>
-    <string name="leaderboard_type_ap">達成値</string>
-    <string name="leaderboard_ap_description">達成値です。達成を完了してリワードを獲得しましょう！達成が珍しい成果ほど、より多くのポイントが得られます。</string>
+    <string name="leaderboard_type_ap">達成ポイント</string>
+    <string name="leaderboard_ap_description">達成ポイントです。達成を完了してリワードを獲得しましょう！達成が珍しい成果ほど、より多くのポイントが得られます。</string>
     <string name="leaderboard_competitive_description">1対1のランキングマッチです。ランクバトルで12試合以上完了したプレイヤーのみは表示されます。</string>
     <string name="leaderboard_rating">ランキング</string>
     <string name="leaderboard_period_daily">デイリー</string>
