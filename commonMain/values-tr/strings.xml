@@ -186,7 +186,7 @@
     <string name="stat_wins_label">Galibiyetler: </string>
     <string name="stat_draws_label"> · Beraberlikler: </string>
     <string name="stat_losses_label"> · Kaybetmeler: </string>
-    <string name="stat_winrate_label"> · Kazanma oranı: </string>
+    <string name="stat_winrate_label"> · Kazanma Oranı: </string>
     <string name="match_starts_in">Match starts in…</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Ongoing matches</string>
@@ -224,8 +224,8 @@
     <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
     <string name="booster_stacks_base_xp">Stacks with Base XP</string>
     <string name="booster_watch_ad">Reklam İzle</string>
-    <string name="booster_choose_boost">XP katlayıcını seç</string>
-    <string name="booster_active">aktif</string>
+    <string name="booster_choose_boost">XP Katlayıcını Seç</string>
+    <string name="booster_active">Aktif</string>
     <string name="booster_max">MAX</string>
     <string name="booster_upgrade">Yükselt</string>
     <string name="booster_base_xp">Base XP Multiplier</string>
