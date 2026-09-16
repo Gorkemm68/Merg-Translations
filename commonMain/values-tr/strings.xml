@@ -535,7 +535,7 @@
     <string name="clan_request_clans">Request Only Clans</string>
     <string name="clan_my_invites">Davetlerim</string>
     <string name="clan_invite_declined">Invite declined.</string>
-    <string name="clan_joined">Klana katıldı!</string>
+    <string name="clan_joined">Klana Katıldı!</string>
     <string name="clan_private">This clan is private or no longer active.</string>
     <string name="clan_members">Members</string>
     <string name="clan_members_count">%1$d / %2$d members</string>
@@ -745,7 +745,7 @@
     <string name="mapsize_small">Küçük</string>
     <string name="mapsize_medium">Orta</string>
     <string name="mapsize_large">Büyük</string>
-    <string name="mapsize_xl">XL</string>
+    <string name="mapsize_xl">Devasa</string>
 
     <!-- Bot difficulties !-->
     <string name="difficulty_easy">Kolay</string>
