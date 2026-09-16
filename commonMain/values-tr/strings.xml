@@ -430,8 +430,8 @@
     <string name="change_profile_name">Profil İsmini Değiştir</string>
     <string name="enter_profile_name">Profil İsmi Gir</string>
     <string name="profile_color">PROFİL RENGİ</string>
-    <string name="profile_text_color_white">White text</string>
-    <string name="profile_text_color_black">Black text</string>
+    <string name="profile_text_color_white">Beyaz Metin</string>
+    <string name="profile_text_color_black">Siyah Metin</string>
     <string name="profile_gradient_color">Gradient color</string>
     <string name="profile_3_gradient_color">Gradient color 2</string>
     <string name="profile_animated_gradient">Animated Gradient</string>
@@ -450,7 +450,7 @@
     <string name="profile_logout_confirm_no_name">Log out?</string>
     <string name="profile_logout_all_confirm">Log out all devices of %s? This may take up to an hour.</string>
     <string name="profile_logout_all_confirm_no_name">Log out all devices? This may take up to an hour.</string>
-    <string name="profile_logout_failed">Logout failed</string>
+    <string name="profile_logout_failed">Silinsin mi?</string>
     <string name="profile_delete_warning">Are you sure you want to delete your Merg account and all data associated with it? THIS CANNOT BE UNDONE!</string>
     <string name="profile_delete_type_prompt">Type %s to confirm account deletion:</string>
     <string name="profile_delete_confirm_text">SİL</string>
